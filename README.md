@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on: React and React Native web and mobile apps<br>👯 Collaborating on: React & React Native & Next.js projects<br>🤝 Need help with: App scaling & CI/CD<br>🌱 Learning: AWS & Automated Testing<br>💬 Ask me about: React Native, Zustand, Firebase<br>⚡ Fun fact: Built real-world AI-powered features long before it was cool.
+🔭 Working on: React, React Native & Next.js web and mobile apps<br>👯 Collaborating on: React & React Native & Next.js projects<br>🤝 Need help with: App scaling & CI/CD<br>🌱 Learning: AWS & Automated Testing<br>💬 Ask me about: React Native, Zustand, Firebase<br>⚡ Fun fact: Built real-world AI-powered features long before it was cool.
 
 
 ## 🌐 Socials:
