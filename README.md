@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 Working on: React, React Native & Next.js web and mobile apps<br>👯 Collaborating on: React & React Native & Next.js projects<br>🤝 Need help with: App scaling & CI/CD<br>🌱 Learning: AWS & Automated Testing<br>💬 Ask me about: React, React Native, Zustand, Firebase, Node<br>⚡ Fun fact: Built real-world AI-powered features long before it was cool.
+🔭 Working on: EHR mobile apps, telehealth platforms & SaaS products 
+   using React Native, Next.js & Node.js
+🌱 Currently learning: AWS infrastructure & automated testing (Jest, Detox)
+💬 Ask me about: React Native, Next.js, TypeScript, Zustand, 
+   Firebase, WebRTC, WordPress
+⚡ 7+ years building production web & mobile apps — 
+   including AI-powered features, real-time video (ACS/WebRTC), 
+   and Stripe payment integrations
 
 
 ## 🌐 Socials:
