@@ -1,12 +1,12 @@
 # 💫 About Me:
-🔭 Working on: EHR mobile apps, telehealth platforms & SaaS products 
-   using React Native, Next.js & Node.js
+🔭 Working on: EHR mobile apps, telehealth platforms, SaaS products & WordPress solutions
+   using React Native, Next.js, Node.js, Elementor, Divi & WooCommerce
 🌱 Currently learning: AWS infrastructure & automated testing (Jest, Detox)
-💬 Ask me about: React Native, Next.js, TypeScript, Zustand, 
-   Firebase, WebRTC, WordPress
-⚡ 7+ years building production web & mobile apps — 
-   including AI-powered features, real-time video (ACS/WebRTC), 
-   and Stripe payment integrations
+💬 Ask me about: React Native, Next.js, TypeScript, Zustand,
+   Firebase, WebRTC, WordPress, WooCommerce & custom theme/plugin development
+⚡ 7+ years building production web & mobile apps —
+   including AI-powered features, real-time video (ACS/WebRTC),
+   Stripe payment integrations & WordPress ecosystems (Elementor, WPBakery, Oxygen, Divi)
 
 
 ## 🌐 Socials:
